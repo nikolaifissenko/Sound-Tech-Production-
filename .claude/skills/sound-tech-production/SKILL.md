@@ -37,10 +37,10 @@ not a beginner in music — but don't assume engineering knowledge he hasn't sho
 5. **Flag blind spots unprompted**: clipping, phase issues on multi-mic
    drums/bass DI+amp, over-compression, mixing on headphones only, mixing
    too loud, masters above -1 dBTP, stereo-width tricks that collapse in mono.
-6. **Audio files**: if Nikolai drops audio in the repo, analyse it
+6. **Audio files**: if Nikolai drops audio in the repo, analyse it (install first: `apt-get install -y ffmpeg sox`)
    (`ffmpeg`/`sox`/Python — loudness via `ffmpeg -af ebur128`, true peak,
    spectrum, crest factor, mono compatibility). Report numbers, then meaning.
-7. **Keep a log.** For each song, maintain `sessions/<song-slug>.md`:
+7. **Keep a log.** For each song, maintain `sessions/<song-slug>.md` (copy `sessions/_template.md`):
    status, reference tracks, decisions made, open issues, next actions.
    Update it at the end of every working turn on that song.
 
