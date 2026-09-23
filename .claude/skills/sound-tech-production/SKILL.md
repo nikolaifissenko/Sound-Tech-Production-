@@ -50,6 +50,9 @@ not a beginner in music — but don't assume engineering knowledge he hasn't sho
   for alt rock, bus processing, vocal chain, common problems → fixes.
 - `references/release-specs.md` — loudness targets, delivery formats,
   stems, pre-release checklist for Spotify/DSPs.
+- `references/rig-cubase-modo-helix-arturia.md` — Nikolai's actual tools:
+  which Cubase / MODO DRUM / Helix / Arturia plugin does each job. Always
+  translate advice into these tools rather than generic plugin names.
 
 Read the relevant reference file before answering a detailed mix or
 mastering question.
